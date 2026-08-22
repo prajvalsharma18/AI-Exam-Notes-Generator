@@ -23,7 +23,7 @@ app.post(
 );
 
 app.use(cors(
-    {origin:"https://ai-exam-notes-generator-7iyh.onrender.com",
+    {origin:"https://ai-exam-notes-generator-ccfh.onrender.com",
         credentials:true,
         methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"]
     }
