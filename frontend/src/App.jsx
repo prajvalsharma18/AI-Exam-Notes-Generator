@@ -9,7 +9,7 @@ import Notes from './pages/Notes'
 import Pricing from './pages/Pricing'
 import PaymentSuccess from './pages/PaymentSuccess'
 import PaymentFailed from './pages/PaymentFailed'
-export const serverUrl = "http://localhost:8000"
+export const serverUrl = "https://ai-exam-notes-generator-backend-v9rn.onrender.com"
 
 function App() {
   const dispatch = useDispatch()
