@@ -133,16 +133,5 @@ The production setup includes:
 * Stripe payment integration
 * Environment-based configuration
 
-## Future Improvements
 
-* Automated backend and API testing
-* Rate limiting and stronger request validation
-* Stripe webhook idempotency
-* Streaming AI generation
-* Improved AI response validation
-* Background processing for longer generations
-
-## Author
-
-Built as a full-stack GenAI project demonstrating practical experience with AI integration, backend development, authentication, MongoDB, payment processing, and production deployment.
 
